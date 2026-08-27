@@ -1,6 +1,6 @@
 # Payton Bilodeau
 
-I direct AI to build working systems, then publish the proof.
+I direct AI to build working systems that make action effortless, then publish the proof.
 
 - [today-in-ai](https://github.com/paytonbilodeau/today-in-ai) — an automated daily AI news brief that researches, verifies, writes, illustrates, and publishes itself to my LinkedIn and X every morning
 - [paytons-ai-systems](https://github.com/paytonbilodeau/paytons-ai-systems) — the ten-system AI library I sell at aimentorship.co, published source-visible
